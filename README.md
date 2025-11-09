@@ -49,7 +49,13 @@ Expand model to predict other commodities like silver or crude oil
 
 📈 Historical Gold Price Trend
 
+<img width="616" height="423" alt="image" src="https://github.com/user-attachments/assets/4844a232-cbbf-4ac4-bd08-401df3e64070" />
+
+
 💹 Predicted vs Actual Gold Prices
+
+<img width="916" height="472" alt="image" src="https://github.com/user-attachments/assets/07df631d-6a52-4ab5-87f9-b4d2448a1808" />
+
 
 🔍 Feature Importance for Gold Price Prediction
 
